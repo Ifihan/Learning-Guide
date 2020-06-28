@@ -2,6 +2,13 @@
 
 This contains Articles, Documentation, and Videos on the elementary aspect of Python.
 
+## Articles
+1. [Introduction To Python - Edureka](https://www.edureka.co/blog/introduction-to-python/)
+
+2. [11 beginner tips for learning python language](https://realpython.com/python-beginner-tips/)
+
+3. 
+
 ## COURSES AND VIDEOS
 
 1. [Python programming](https://pythonprogramming.net/python-fundamental-tutorials/)
@@ -14,6 +21,8 @@ This contains Articles, Documentation, and Videos on the elementary aspect of Py
 8. [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 9. [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 10. [Python Fundamental tutotials](https://pythonprogramming.net/python-fundamental-tutorials/)
+11. [Python for data science](https://cognitiveclass.ai/courses/python-for-data-science)
+12. [Python Course - Sololearn](https://www.sololearn.com/Course/Python/)
 
 ## DOCUMENTATION
 
