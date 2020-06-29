@@ -1,7 +1,7 @@
 # Learning Path
 
 
-[Introduction To Python](IntroductiontoPython.md) <br>
+
 [Introduction To Python](introductiontopython.md/) <br>
 [Introduction to Data Science](DataScience.md)<br>
 [Machine Learning](MachineLearning.md)<br>
