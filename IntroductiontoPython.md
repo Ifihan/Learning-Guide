@@ -4,10 +4,7 @@ This contains Articles, Documentation, and Videos on the elementary aspect of Py
 
 ## Articles
 1. [Introduction To Python - Edureka](https://www.edureka.co/blog/introduction-to-python/)
-
 2. [11 beginner tips for learning python language](https://realpython.com/python-beginner-tips/)
-
-3. 
 
 ## COURSES AND VIDEOS
 
