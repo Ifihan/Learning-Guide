@@ -10,4 +10,4 @@ Also, for those who already have a knowledge of Python and want to diversify int
 - [Machine Learning](MachineLearning.md)
 - [Deep Learning with Python](DeepLearning.md)
 
-[DSN AI 2020 Curicullum](curricullum.md)
+The Curriclum for the club can be found at: [DSN AI 2020 Curriculum](curriculum.md)
